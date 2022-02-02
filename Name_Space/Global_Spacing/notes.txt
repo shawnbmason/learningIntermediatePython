@@ -1,0 +1,7 @@
+As we saw previously, the global namespace only contains items that are non-nested. 
+In this case, our global namespace does not contain the identical nested name of global_variable.
+
+Depending on where we call globals() we will have a different namespace generated. 
+This means globals() will show the namespace at the time it was executed. 
+Since we called globals() a second time after defining a few items 
+(such as variables and functions), those items now show up in the global namespace.
