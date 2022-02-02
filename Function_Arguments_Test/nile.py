@@ -16,3 +16,5 @@ SHIPPING_PRICES = {
 
 def format_price(price):
   return "${0:.2f}".format(price)
+
+print("hello world")
