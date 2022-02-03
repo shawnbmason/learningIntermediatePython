@@ -43,7 +43,8 @@ def division():
         return
     else:
         return dividend / divisor
-    result = division()
-    if result == None:
-        logger.warning("The result value is None!")
+    
+result = division()
+if result == None:
+    logger.warning("The result value is None!")
         
