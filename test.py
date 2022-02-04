@@ -14,3 +14,5 @@ for i in range(len(bills)):
   new_bills.append("Total amount owed is $" + "{:.2f}".format(total) + ". Thank you! :)")
  
 print(new_bills)
+
+# This is just a test project
