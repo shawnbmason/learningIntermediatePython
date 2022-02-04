@@ -1,0 +1,3 @@
+The house has gas, electricity, and water. All three of these things are amenities, 
+and amenities share some things in common. For example, they can all be considered “on” or “off”, 
+but yet they all have a different unit that they are measured in.

@@ -1,0 +1,6 @@
+My house has a roof to protect the inside from the rain. It has a door to prevent anyone from 
+just wandering in. Sure, it has windows, too- but I have shutters on those and control who I 
+want to be able to peer in. In these ways, my house is encapsulated, or protected, from the 
+outside. When I encapsulate something in my code, I am taking caution to not let outside effects 
+impact that code. When I adhere to this principle, it makes my code more predictable, and not 
+as vulnerable to bugs.

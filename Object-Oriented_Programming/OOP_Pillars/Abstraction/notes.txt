@@ -1,0 +1,8 @@
+My beautiful blue house on a quaint pond has running water, electricity, and gas- but 
+you do not need to know how each of these things works. Instead, you flip a light switch 
+and the lights come on; You turn the stove on and a blue circle of flame gently rolls upward; 
+You push the faucet handle up and a stream of clear water pours out. The house's walls and 
+foundation abstract away the details of how these things work, and you as my guest enjoy them 
+blissfully unaware of long lengths of wire, deeply buried pipes, and large water tanks that 
+provide you with these amenities. Abstraction in Python is the process of hiding the real 
+implementation of an application from the user and emphasizing only how to use the application.

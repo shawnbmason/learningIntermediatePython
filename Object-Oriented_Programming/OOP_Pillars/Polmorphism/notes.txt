@@ -1,0 +1,6 @@
+The word polymorphism means having many forms. In programming, polymorphism means the same 
+function name is used for different types. When we previously used inheritance, we explicitly 
+linked parent classes to child classes to write reusable code. Polymorphism is achieving the 
+same outcome of shared properties and methods but there is no link between the code; instead, 
+we write the properties and methods to operate in similar and logical ways, allowing us to 
+freely swap classes and methods and being able to expect a similar output.
