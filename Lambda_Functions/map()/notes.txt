@@ -1,0 +1,2 @@
+The map() function applies a passed function to each element in an iterable and returns 
+a map object.

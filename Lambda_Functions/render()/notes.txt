@@ -1,0 +1,3 @@
+reduce() must be imported from the functools module. It reduces an iterable to a single value 
+by cumulatively applying a passed function to the first pair of elements in the iterable and 
+then each sequential element with the return value.

@@ -1,0 +1,3 @@
+The filter() function applies a filtering function (a function that returns a boolean) 
+to each element in an iterable. filter() returns a filter object with only the elements 
+for which the filtering function returned True.
